@@ -21,6 +21,7 @@ class UsersController < ApplicationController
     end
   end
 
+
   # GET /users/new
   # GET /users/new.xml
   def new
